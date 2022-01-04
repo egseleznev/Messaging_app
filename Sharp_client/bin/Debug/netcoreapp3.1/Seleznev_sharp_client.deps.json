@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Seleznev_sharp_client/1.0.0": {
+        "runtime": {
+          "Seleznev_sharp_client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seleznev_sharp_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

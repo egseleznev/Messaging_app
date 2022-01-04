@@ -1,0 +1,14 @@
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.AssemblyInfoInputs.cache
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.AssemblyInfo.cs
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.csproj.CoreCompileInputs.cache
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.exe
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.deps.json
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.runtimeconfig.json
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.runtimeconfig.dev.json
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.dll
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\bin\Debug\netcoreapp3.1\Seleznev_sharp_client.pdb
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.dll
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.pdb
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.genruntimeconfig.cache
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.csproj.AssemblyReference.cache
+D:\7сем\Разработка интегрированных систем\Seleznev_LR1\Seleznev_sharp_client\obj\Debug\netcoreapp3.1\Seleznev_sharp_client.GeneratedMSBuildEditorConfig.editorconfig
