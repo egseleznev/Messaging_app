@@ -3,6 +3,7 @@
 #include "Session.h"
 
 map<int, shared_ptr<Session>> sessions;
+
 int id=0;
 
 // Отключение неактивных пользователей
